@@ -1,0 +1,25 @@
+{
+  "name": "is_uppercased",
+  "version": "0.0.1",
+  "description": "Whether string starts with upper case",
+  "main": "isUppercased.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achepukov/is_uppercased.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "a.chepukov@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achepukov/is_uppercased/issues"
+  },
+  "homepage": "https://github.com/achepukov/is_uppercased#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
